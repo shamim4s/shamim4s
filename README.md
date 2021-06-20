@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/master/68747470733a2f2f6d656469612e.gif" alt="shamim4s" /> </p>
+
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h3 align="center">A passionate IT consultant and System Administrator from Bangladesh</h3>
 
@@ -5,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shamim4s" target="blank"><img src="https://img.shields.io/twitter/follow/shamim4s?logo=twitter&style=for-the-badge" alt="shamim4s" /></a> </p>
 
-- 🔭 I’m currently working on **UPWORK**
+- 🔭 I’m currently working on [UPWORK](https://www.upwork.com/freelancers/~0126a9e3ea476741d8)
 
-- 🌱 I’m currently learning **Golang And DevOps**
+- 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
 - 💬 Ask me about **IT Solutions**
 
@@ -17,6 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<a href="https://shamim.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/shamim4s/shamim4s/master/logo-s.jpg" height="30" width="40" /></a>
 <a href="https://twitter.com/shamim4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shamim4s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shamim-mia-925098144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamim-mia-925098144" height="30" width="40" /></a>
 <a href="https://fb.com/shamim4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim4s" height="30" width="40" /></a>
