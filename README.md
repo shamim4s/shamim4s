@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/master/68747470733a2f2f6d656469612e.gif" alt="shamim4s" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/master/68747470733a2f2f6f7631302d656e67696e652e666c616d696e67746578742e636f6d2f6e657466752f746d7032383030302f636f6f6c6c6f676f5f636f6d2d3134333734313933322e706e67.png" alt="shamim4s" /> </p>
 
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h3 align="center">A passionate IT consultant and System Administrator from Bangladesh</h3>
@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I Think i'm funny too :)**
 
+<br />
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -30,8 +33,6 @@
 
 <br />
 <br />
-<br />
-
 
 
 
@@ -40,13 +41,11 @@
 
 <br />
 <br />
-<br />
 
 
 
 <h3 align="left">:hammer_and_wrench: Technologies I use:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://couchdb.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
-<br />
 <br />
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim4s&show_icons=true&locale=en&layout=compact" alt="shamim4s" /></p>
