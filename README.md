@@ -12,8 +12,6 @@
 <p></p></pre>                                                                                                                                             
                                                                                                                                                    
                                                                                                                                                    
-                                                                                                                                                   
-                                                                                                                                                   
 <h1 align="center">Hi , I'm Shamim</h1>
 <h3 align="center">A passionate IT consultant and System Administrator from Bangladesh</h3>
 <br />
