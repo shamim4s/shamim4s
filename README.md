@@ -12,6 +12,11 @@
 <p></p></pre>                                                                                                                                             
                                                                                                                                                    
                                                                                                                                                    
+
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/master/shamim.svg" alt="shamim4s" /> </p>
+
 <h1 align="center">Hi , I'm Shamim</h1>
 <h3 align="center">A passionate IT consultant and System Administrator from Bangladesh</h3>
 <br />
