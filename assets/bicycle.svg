@@ -55,6 +55,14 @@
 		transform: rotateX(20deg);
 	}
 }
+
+#Vector{
+animation:run 6s infinite linear;
+}
+
+@keyframes run{
+  100% {transform:translateX(-1200px);}
+}
 	</style>
 
 <g id="undraw_Ride_a_bicycle_2yok 1" clip-path="url(#clip0)">
