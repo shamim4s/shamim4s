@@ -1,5 +1,5 @@
 <a href="https://www.shamim.app" target="_blank"><p align="center">  <img src="https://raw.githubusercontent.com/shamim4s/storage/master/tempfiles/assets/shamim.svg" alt="shamim4s" /> </a>
-
+<a href="https://www.shamim.app" target="_blank"><p align="center">  <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/shamim_animated_particle_vacuum.svg" alt="shamim4s" /> </a>
 <h1 align="center">Hi , I'm Shamim</h1>
 <h3 align="center">A passionate IT consultant and System Administrator from Bangladesh</h3>
 <br />
