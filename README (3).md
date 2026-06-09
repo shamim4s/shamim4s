@@ -89,3 +89,12 @@ I am Md Shamim Mia, a forward-looking IT Consultant and System Administrator bas
     <img src="https://raw.githubusercontent.com/shamim4s/storage/master/tempfiles/Newfolder/shamimcycle.svg" alt="Cycling Footer Design" width="100%" />
   </a>
 </p>
+
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph.svg">
+</picture>
