@@ -19,7 +19,10 @@
   <a href="https://github.com/shamim4s">GitHub</a> •
   <a href="https://www.upwork.com/freelancers/~0126a9e3ea476741d8">Upwork</a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shamim4s&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shamim4s?label=Followers&style=flat-square&color=0052cc" alt="GitHub followers" />
+</p>
 ---
 
 ## 👋 About Me
@@ -79,6 +82,17 @@ I actively contribute to open-source projects, experiment with AI-assisted opera
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+---
+<h3 align="center">:scroll: Languages I use:</h3>
+<p align="center"><a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim4s&show_icons=true&locale=en&layout=compact&theme=dark" alt="shamim4s" /></p>
+
+<br />
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/refs/heads/master/profile-3d-contrib/profile-night-green.svg" alt="Md Shamim Mia" width="750" />
+</p>
 
 ---
 
@@ -119,13 +133,17 @@ Creating GTA V modifications, multiplayer resources, and tools used by the gamin
 
 > Enable GitHub Snake Animation later using GitHub Actions.
 
-```html
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shamim4s/shamim4s/output/github-contribution-grid-snake-dark.svg" />
-</p>
-```
 
----
+<p align="center">
+  <!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/shamim4s/shamim4s/output/breakout-contribution-graph-dark.svg">
+</picture>
+</p>
+
+
 
 ## 🌍 Communities & Ecosystems
 
