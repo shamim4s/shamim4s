@@ -95,6 +95,6 @@ I am Md Shamim Mia, a forward-looking IT Consultant and System Administrator bas
 <!-- [game-name] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph.svg">
-    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamim4s/shamim4s/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/shamim4s/shamim4s/output/breakout-contribution-graph-dark.svg">
 </picture>
