@@ -123,7 +123,7 @@ Creating GTA V modifications, multiplayer resources, and tools used by the gamin
 ### :bar_chart: GitHub Ecosystem Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamim4s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Metrics" style="max-width: 47%;"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim4s&theme=tokyonight&hide_border=true" alt="Activity Streak" style="max-width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shamim4s&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Metrics" width="350"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim4s&theme=tokyonight&hide_border=true" alt="Activity Streak" width="370"/>
 </p>
 
 
