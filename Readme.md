@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://shamim.app">Website</a> •
-  <a href="mailto:me@shamim.app">Email</a> •
+  <a href="https://shamim...">Website</a> •
+  <a href="mailto:shamim4s@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/shamim-mia-925098144">LinkedIn</a> •
   <a href="https://github.com/shamim4s">GitHub</a> •
   <a href="https://www.upwork.com/freelancers/~0126a9e3ea476741d8">Upwork</a>
