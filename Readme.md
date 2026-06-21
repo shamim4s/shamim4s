@@ -170,9 +170,9 @@ I actively participate in and contribute to:
 
 ## 📫 Connect
 
-🌐 Website: https://shamim.app
+🌐 Website: https://shamim.....
 
-📧 Email: [me@shamim.app](mailto:me@shamim.app)
+📧 Email: [shamim4s@gmail.com](mailto:shamim4s@gmail.com)
 
 💼 Upwork: https://www.upwork.com/freelancers/~0126a9e3ea476741d8
 
