@@ -61,6 +61,14 @@ I actively contribute to open-source projects, experiment with AI-assisted opera
 
 ---
 
+# Win Active
+
+[![Windows & Office Activation](https://raw.githubusercontent.com/shamim4s/win-active/refs/heads/master/assets/banner.png)](https://github.com/shamim4s/win-active)
+
+Free Windows & Microsoft Office activation scripts and utilities.
+
+---
+
 ## 🛠️ Technology Stack
 
 ### Infrastructure
