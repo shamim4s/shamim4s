@@ -195,3 +195,19 @@ I actively participate in and contribute to:
     Building reliable infrastructure, securing systems, automating operations, and contributing to open source.
   </i>
 </p>
+
+# new repository on the command line
+```
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/shamim4s/windows_powerClean.git
+git push -u origin master
+```
+# or push an existing repository from the command line
+```
+git remote add origin https://github.com/shamim4s/windows_powerClean.git
+git branch -M master
+git push -u origin master
+```
