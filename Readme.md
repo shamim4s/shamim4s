@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shamim...">Website</a> •
+  <a href="https://shamim4s.github.io">Website</a> •
   <a href="mailto:shamim4s@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/md-shamim-mia-925098144/">LinkedIn</a> •
   <a href="https://github.com/shamim4s">GitHub</a> •
