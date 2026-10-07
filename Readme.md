@@ -27,7 +27,7 @@
 
 ## 👋 About Me
 
-I'm **Md Shamim Mia**, a Linux Infrastructure Engineer and IT Consultant specializing in secure server environments, cloud architecture, hosting platforms, automation, and open-source technologies.
+I'm **Md Shamim Mia**, a AI Agent Developer & Cloud Infrastructure Engineer & Linux Infrastructure Engineer and IT Consultant specializing in secure server environments, cloud architecture, hosting platforms, automation, and open-source technologies.
 
 I help businesses deploy, secure, automate, and maintain reliable Linux-based infrastructure. My work spans cloud operations, server hardening, DevOps workflows, and infrastructure optimization.
 
