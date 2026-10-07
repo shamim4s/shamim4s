@@ -5,7 +5,7 @@
 <h1 align="center">Md Shamim Mia</h1>
 
 <p align="center">
-  <strong>Linux Infrastructure Engineer • System Administrator • IT Consultant</strong>
+  <strong>AI Agent Developer & Cloud Infrastructure Engineer • System Administrator • IT Consultant</strong>
 </p>
 
 <p align="center">
